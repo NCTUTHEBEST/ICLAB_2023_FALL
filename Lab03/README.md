@@ -12,12 +12,12 @@
 
 ### **心得**
 
-Lab03只能說應該是助教想要犒賞一下Lab02存活下來的同學 XD
+Lab03只能說應該是助教想要犒賞一下Lab02存活下來的同學，難度可以說直線下降 XD
 
-這邊特別要注意的部分應該就是不會寫pattern的同學要好好學 (因為後續Lab，助教都不會提供pattern)
+這邊特別要注意的部分應該就是不會寫pattern的人要好好練習 (因為後續Lab，助教都不會提供pattern)
 
 然後記得要小心助教給的所有spec (因為要你們驗出的design error很多，要小心每一個error spec，你的pattern都要能驗出來)
 
 這邊如果助教沒有release error design給你們的話 (這學期助教真的很佛，這學期有release error design)
 
-推薦可以找朋友一起設計一些錯誤design，然後交換驗自己的pattern
+推薦可以找朋友一起設計一些錯誤design，然後交換驗自己的pattern (有隊友真的很重要!!!!!!!!)

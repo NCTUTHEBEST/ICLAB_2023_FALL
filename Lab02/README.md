@@ -1,4 +1,4 @@
-第二次Lab的難度相較於第一次變得更難 (Sequential Circuit)
+第二次Lab的難度相較於第一次變得更難 ***(Sequential Circuit)***
 
 但這學期的Lab02因為受到2023 Spring的影響，所以難度有調降 (但通常這次Lab會退選掉最多人)
 

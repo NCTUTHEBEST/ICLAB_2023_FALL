@@ -1,4 +1,4 @@
-第一次Lab雖然是簡單的 **(純粹 Combinational Circuit)**
+第一次Lab雖然是簡單的 ***(純粹 Combinational Circuit)***
 
 但如果要拚performance，會需要花一段時間
 

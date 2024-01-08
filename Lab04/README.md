@@ -1,4 +1,6 @@
-第四次Lab的難度相較於第三次直線上升 (use designware IP ---> IEEE floating point && pipeline)
+## DesignWare IP && Pipeline
+
+第四次Lab的難度相較於第三次直線上升 
 
 這學期Lab04因為受到Dcard風波影響，難度可以說是指數上升 (上面說的直線是客氣了......@@)
 

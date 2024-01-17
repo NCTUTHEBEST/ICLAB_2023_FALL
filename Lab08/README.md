@@ -8,7 +8,7 @@
 
 這邊推薦一招，把without clock gating的design power弄高一點 (讓本來沒在transition的DFF動起來 XD)
 
-這樣就算有clock gating的design power沒有很小，還是可以達到spec (偷吃步，如果有人真的搞不定可以參考一下)
+這樣就算有clock gating的design power沒有很小，還是可以滿足spec (偷吃步，如果有人真的搞不定可以參考一下)
 
 ----------------------------------------------------------------------------------------------
 

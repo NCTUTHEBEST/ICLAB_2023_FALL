@@ -24,4 +24,4 @@
 
 擋一級register因為後面訊號也都要延後一個cycle，也改超久 (但最後還是弄完了，要相信自己 XD)
 
-![image]()
+![image](https://github.com/NCTUTHEBEST/ICLAB_2023_FALL/blob/main/Final/CPU_layout.jpg)

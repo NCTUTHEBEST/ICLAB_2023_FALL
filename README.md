@@ -7,7 +7,7 @@
 |            | Lab01 | Lab02 | Lab03 | Lab04 | Lab05 | Lab06 | Mid_Project | OT | Mid_exam |
 | ---------- | ----- | ----- | ----- | ----- | ----- | ----- | ----------- | -- | -------- |
 | Difficulty |  2/5  |
-|   Score    |       |
-|   Rank     |
+|    Score   |       |
+|    Rank    |
 
  Lab07 | Lab08 | Lab09 | Lab10 | Lab11 | Lab12 | Lab013 | Lab02 | Lab03 |

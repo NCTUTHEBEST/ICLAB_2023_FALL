@@ -23,3 +23,5 @@
 寫完design也A完，結果06跳出timing violation
 
 擋一級register因為後面訊號也都要延後一個cycle，也改超久 (但最後還是弄完了，要相信自己 XD)
+
+

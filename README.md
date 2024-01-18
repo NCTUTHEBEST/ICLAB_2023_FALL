@@ -6,7 +6,7 @@
 
 |       | Lab01 | Lab02 | Lab03 | Lab04 | Lab05 | Lab06 | Mid_Project | OT | Mid_exam |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----------- | -- | -------- |
-| Content Cell  | Content Cell  |
+| Difficulty| Content Cell  |
 | Content Cell  | Content Cell  |
 
 

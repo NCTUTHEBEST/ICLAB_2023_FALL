@@ -28,4 +28,9 @@
 
 
 
+
+
+
+
+
 ![image](https://github.com/NCTUTHEBEST/ICLAB_2023_FALL/blob/main/Final/CPU_layout.jpg)
